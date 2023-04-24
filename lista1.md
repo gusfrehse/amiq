@@ -99,3 +99,26 @@ Assim
     &\Leftrightarrow \lambda \in \mathbb{R}
 \end{align*}
 
+## 5
+
+\begin{align*}
+    | \psi_1 \rangle &= | x \rangle\\
+    | \psi_2 \rangle &= \frac{| x \rangle + i | y \rangle}{\sqrt{2}}\\
+    | \psi_3 \rangle &= \frac{ i | y \rangle - | x \rangle}{\sqrt{2}}\\
+    | \psi_4 \rangle &= \frac{ i | y \rangle - e^{i\phi} | y
+    \rangle}{\sqrt{2}}\\
+    | \psi_5 \rangle &= \frac{i}{\sqrt{2}}\left(\frac{| y \rangle + i | x
+    \rangle}{\sqrt{2}}\right) - \frac{e^{i\phi}}{\sqrt{2}}\left(\frac{| x \rangle + i | y
+    \rangle}{\sqrt{2}}\right)
+\end{align*}
+
+\begin{equation*}
+    | U_1 \rangle =
+    \begin{pmatrix}
+        1 & 2\\
+        4 & 5
+    \end{pmatrix}
+\end{equation*}
+
+
+
